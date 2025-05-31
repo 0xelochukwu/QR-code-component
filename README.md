@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/0xelochukwu/QR-code-component](https://github.com/0xelochukwu/QR-code-component)
 - Live Site URL: [https://qr-code-component-zeta-taupe-79.vercel.app/](https://qr-code-component-zeta-taupe-79.vercel.app/)
 
 ## My process
